@@ -1,0 +1,5 @@
+﻿  test.cpp
+C:\Users\Dzban\source\repos\Project3\FunctionTests\test.cpp(9,1): error C2011: "TestCaseName_TestName_Test'': "class" wpisz ponownie definicję
+C:\Users\Dzban\source\repos\Project3\FunctionTests\test.cpp(4): message : zobacz deklarację „TestCaseName_TestName_Test”
+C:\Users\Dzban\source\repos\Project3\FunctionTests\test.cpp(9,1): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "TestCaseName_TestName_Test"
+C:\Users\Dzban\source\repos\Project3\FunctionTests\test.cpp(4): message : zobacz deklarację „TestCaseName_TestName_Test”
